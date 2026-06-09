@@ -1,0 +1,520 @@
+irregular_verbs_mca_data_full_list
+irregular_verbs_mca_data_full_list;;;;;;;;
+irregular_verbs_mca_data;;;;;;;;
+Verb;Error_Form;Irregular Verb Type;Country;Native_Language;Error_Type;Language_Family;Region;Years of English at School
+arise;arised;Strong Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+arise;arised;Strong Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+arise;arised;Strong Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+arise;arised;Strong Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+arise;arised;Strong Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+arise;arised;Strong Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+arise;arised;Strong Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+arise;arised;Strong Verb;Hungary;Hungarian;overgeneralized_ed;Uralic;Europe;6 years or more
+arise;arised;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+arise;arised;Strong Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+arise;arised;Strong Verb;Russia;Russian;overgeneralized_ed;Indo-European;Europe;6 years or more
+arise;arised;Strong Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+arise;arised;Strong Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+arise;arised;Strong Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+arise;arosen;Strong Verb;Italy;Italian;incorrect_participle;Romance;Europe;6 years or more
+arise;arosen;Strong Verb;Turkey;Turkish;incorrect_participle;Turkic;Asia;6 years or more
+awake;awaked;Strong Verb;Czech Republic;Czech;overgeneralized_ed;Indo-European;Europe;4 years
+awake;awaked;Strong Verb;Russia;Russian;overgeneralized_ed;Indo-European;Europe;6 years or more
+be;did not;Suppletive Verb;Iran;Persian;auxiliary_error;Indo-European;Asia;3 years
+be;did not;Suppletive Verb;Iran;Persian;auxiliary_error;Indo-European;Asia;3 years
+be;did not;Suppletive Verb;Italy;Italian;auxiliary_error;Romance;Europe;5 years
+be;did not;Suppletive Verb;South Korea;Korean;auxiliary_error;Koreanic;Asia;6 years or more
+be;did not;Suppletive Verb;South Korea;Korean;auxiliary_error;Koreanic;Asia;6 years or more
+be;did not;Suppletive Verb;South Korea;Korean;auxiliary_error;Koreanic;Asia;6 years or more
+be;did not;Suppletive Verb;Pakistan;Urdu;auxiliary_error;Indo-European;Asia;6 years or more
+be;did not;Suppletive Verb;Russia;Russian;auxiliary_error;Indo-European;Europe;6 years or more
+be;did not;Suppletive Verb;Russia;Russian;auxiliary_error;Indo-European;Europe;6 years or more
+be;did not be;Suppletive Verb;Brazil;Portuguese;auxiliary_error;Romance;South_America;6 years or more
+be;did not be;Suppletive Verb;South Korea;Korean;auxiliary_error;Koreanic;Asia;6 years or more
+be;have be;Suppletive Verb;Brazil;Portuguese;incorrect_participle;Romance;South_America;6 years or more
+be;have be;Suppletive Verb;Brazil;Portuguese;incorrect_participle;Romance;South_America;6 years or more
+be;have be;Suppletive Verb;China-Hong Kong;Chinese-Cantonese;incorrect_participle;Sino-Tibetan;Asia;6 years or more
+be;have be;Suppletive Verb;China-Hong Kong;Chinese-Cantonese;incorrect_participle;Sino-Tibetan;Asia;6 years or more
+be;have be;Suppletive Verb;Belgium;French;incorrect_participle;Romance;Europe;6 years or more
+be;have be;Suppletive Verb;Greece;Greek;incorrect_participle;Indo-European;Europe;6 years or more
+be;have be;Suppletive Verb;Lithuania;Lithuanian;incorrect_participle;Indo-European;Europe;6 years or more
+be;have be;Suppletive Verb;Lithuania;Lithuanian;incorrect_participle;Indo-European;Europe;6 years or more
+be;has be;Suppletive Verb;China-Hong Kong;Chinese-Cantonese;incorrect_participle;Sino-Tibetan;Asia;6 years or more
+be;has be;Suppletive Verb;Russia;Russian;incorrect_participle;Indo-European;Europe;6 years or more
+be;has be;Suppletive Verb;South Africa;Tswana;incorrect_participle;Niger-Congo;Africa;6 years or more
+be;hadn’t be;Suppletive Verb;Greece;Greek;incorrect_participle;Indo-European;Europe;6 years or more
+bear;beared;Strong Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+beat;beated;Strong Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+beat;beated;Strong Verb;Russia;Russian;overgeneralized_ed;Indo-European;Europe;6 years or more
+become;are became;Strong Verb;South Africa;Tswana;incorrect_participle;Niger-Congo;Africa;6 years or more
+become;becomed;Strong Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+become;becomed;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+become;becomed;Strong Verb;Macedonia;Macedonian;overgeneralized_ed;Indo-European;Europe;6 years or more
+become;did not became;Strong Verb;Sweden;Swedish;auxiliary_error;Germanic;Europe;6 years or more
+become;had became;Strong Verb;Czech Republic;Czech;incorrect_participle;Indo-European;Europe;3 years
+become;have became;Strong Verb;Bulgaria;Bulgarian;incorrect_participle;Indo-European;Europe;5 years
+become;have became;Strong Verb;Greece;Greek;incorrect_participle;Indo-European;Europe;6 years or more
+become;have became;Strong Verb;Greece;Greek;incorrect_participle;Indo-European;Europe;6 years or more
+become;have became;Strong Verb;Hungary;Hungarian;incorrect_participle;Uralic;Europe;4 years
+become;have became;Strong Verb;Macedonia;Macedonian;incorrect_participle;Indo-European;Europe;6 years or more
+become;have became;Strong Verb;Pakistan;Urdu;incorrect_participle;Indo-European;Asia;5 years
+become;have became;Strong Verb;Pakistan;Urdu;incorrect_participle;Indo-European;Asia;6 years or more
+become;have became;Strong Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+become;have became;Strong Verb;South Africa;Tswana;incorrect_participle;Niger-Congo;Africa;6 years or more
+become;has became;Strong Verb;Brazil;Portuguese;incorrect_participle;Romance;South_America;6 years or more
+become;has became;Strong Verb;Brazil;Portuguese;incorrect_participle;Romance;South_America;6 years or more
+become;has became;Strong Verb;China-Hong Kong;Chinese-Cantonese;incorrect_participle;Sino-Tibetan;Asia;6 years or more
+become;has became;Strong Verb;China-Hong Kong;Chinese-Cantonese;incorrect_participle;Sino-Tibetan;Asia;6 years or more
+become;has became;Strong Verb;China-Hong Kong;Chinese-Cantonese;incorrect_participle;Sino-Tibetan;Asia;6 years or more
+become;has became;Strong Verb;China-Hong Kong;Chinese-Cantonese;incorrect_participle;Sino-Tibetan;Asia;6 years or more
+become;has became;Strong Verb;China-Mainland;Chinese;incorrect_participle;Sino-Tibetan;Asia;6 years or more
+become;has became;Strong Verb;Finland;Finnish;incorrect_participle;Uralic;;6 years or more
+become;has became;Strong Verb;Greece;Greek;incorrect_participle;Indo-European;Europe;6 years or more
+become;has became;Strong Verb;Greece;Greek;incorrect_participle;Indo-European;Europe;6 years or more
+become;has became;Strong Verb;Greece;Greek;incorrect_participle;Indo-European;Europe;6 years or more
+become;has became;Strong Verb;Greece;Greek;incorrect_participle;Indo-European;Europe;6 years or more
+become;has became;Strong Verb;Hungary;Hungarian;incorrect_participle;Uralic;Europe;2 years
+become;has became;Strong Verb;Hungary;Hungarian;incorrect_participle;Uralic;Europe;6 years or more
+become;has became;Strong Verb;Hungary;Hungarian;incorrect_participle;Uralic;Europe;6 years or more
+become;has became;Strong Verb;Italy;Italian;incorrect_participle;Romance;Europe;5 years
+become;has became;Strong Verb;Japan;Japanese;incorrect_participle;Japonic;Asia;6 years or more
+become;has became;Strong Verb;South Korea;Korean;incorrect_participle;Koreanic;Asia;6 years or more
+become;has became;Strong Verb;Lithuania;Lithuanian;incorrect_participle;Indo-European;Europe;6 years or more
+become;has became;Strong Verb;Macedonia;Macedonian;incorrect_participle;Indo-European;Europe;6 years or more
+become;has became;Strong Verb;Norway;Norwegian;incorrect_participle;Germanic;Europe;6 years or more
+become;has became;Strong Verb;Pakistan;Punjabi;incorrect_participle;Indo-European;Asia;6 years or more
+become;has became;Strong Verb;Pakistan;Punjabi;incorrect_participle;Indo-European;Asia;6 years or more
+become;has became;Strong Verb;Pakistan;Urdu;incorrect_participle;Indo-European;Asia;6 years or more
+become;has became;Strong Verb;Pakistan;Urdu;incorrect_participle;Indo-European;Asia;6 years or more
+become;has became;Strong Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+become;is became;Strong Verb;China-Hong Kong;Chinese-Cantonese;incorrect_participle;Sino-Tibetan;Asia;6 years or more
+become;was became;Strong Verb;China-Mainland;Chinese;incorrect_participle;Sino-Tibetan;Asia;6 years or more
+blow;blowed;Strong Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;Unknown
+breed;breeded;Weak Verb;Finland;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+breed;breeded;Weak Verb;Finland;Finnish;overgeneralized_ed;Uralic;Europe;6 years or more
+breed;breeded;Weak Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+breed;is breed;Weak Verb;South Africa;Tswana;incorrect_participle;Niger-Congo;Africa;6 years or more
+broadcast;broadcasted;Invariable Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+broadcast;broadcasted;Invariable Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+broadcast;broadcasted;Invariable Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+broadcast;broadcasted;Invariable Verb;China-Mainland;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+broadcast;broadcasted;Invariable Verb;China-Mainland;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+broadcast;broadcasted;Invariable Verb;China-Mainland;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+broadcast;broadcasted;Invariable Verb;China-Mainland;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+broadcast;broadcasted;Invariable Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+broadcast;broadcasted;Invariable Verb;Belgium;Dutch;overgeneralized_ed;Germanic;Europe;5 years
+broadcast;broadcasted;Invariable Verb;Belgium;Belgium;overgeneralized_ed;Germanic;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Belgium;Belgium;overgeneralized_ed;Germanic;Europe;4 years
+broadcast;broadcasted;Invariable Verb;Finland;Finnish;overgeneralized_ed;Uralic;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Finland;Finnish;overgeneralized_ed;Uralic;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Belgium;French;overgeneralized_ed;Romance;Europe;4 years
+broadcast;broadcasted;Invariable Verb;Belgium;French;overgeneralized_ed;Romance;Europe;3 years
+broadcast;broadcasted;Invariable Verb;Belgium;French;overgeneralized_ed;Romance;Europe;3 years
+broadcast;broadcasted;Invariable Verb;Belgium;French;overgeneralized_ed;Romance;Europe;3 years
+broadcast;broadcasted;Invariable Verb;Germany;German;overgeneralized_ed;Germanic;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Switzerland;German;overgeneralized_ed;Germanic;Europe;5 years
+broadcast;broadcasted;Invariable Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Japan;Japanese;overgeneralized_ed;Japonic;Asia;6 years or more
+broadcast;broadcasted;Invariable Verb;Japan;Japanese;overgeneralized_ed;Japonic;Asia;6 years or more
+broadcast;broadcasted;Invariable Verb;Japan;Japanese;overgeneralized_ed;Japonic;Asia;6 years or more
+broadcast;broadcasted;Invariable Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Pakistan;Urdu;overgeneralized_ed;Indo-European;Asia;6 years or more
+broadcast;broadcasted;Invariable Verb;Pakistan;Urdu;overgeneralized_ed;Indo-European;Asia;6 years or more
+broadcast;broadcasted;Invariable Verb;Pakistan;Urdu;overgeneralized_ed;Indo-European;Asia;6 years or more
+broadcast;broadcasted;Invariable Verb;Poland;Polish;overgeneralized_ed;Indo-European;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;Unknown
+broadcast;broadcasted;Invariable Verb;Turkey;Turkish;overgeneralized_ed;Turkic;Asia;6 years or more
+build;are build;Weak Verb;Germany;German;incorrect_participle;Germanic;Europe;6 years or more
+build;builded;Weak Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+build;builded;Weak Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+build;builded;Weak Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+build;builded;Weak Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+build;builded;Weak Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+build;builded;Weak Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+build;is build;Weak Verb;Germany;German;incorrect_participle;Germanic;Europe;6 years or more
+build;is build;Weak Verb;Germany;German;incorrect_participle;Germanic;Europe;6 years or more
+build;is build;Weak Verb;South Africa;Tswana;incorrect_participle;Niger-Congo;Africa;6 years or more
+build;was build;Weak Verb;Greece;Greek;incorrect_participle;Indo-European;Europe;6 years or more
+build;were build;Weak Verb;Czech Republic;Czech;incorrect_participle;Indo-European;Europe;4 years
+build;were build;Weak Verb;Czech Republic;Czech;incorrect_participle;Indo-European;Europe;4 years
+build;were build;Weak Verb;Serbia;Serbian;incorrect_participle;Indo-European;Europe;6 years or more
+burst;bursted;Invariable Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;3 years
+burst;bursted;Invariable Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+burst;bursted;Invariable Verb;Russia;Russian;overgeneralized_ed;Indo-European;Europe;6 years or more
+buy;buyed;Weak Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+cast;casted;Invariable Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+cast;casted;Invariable Verb;Serbia;Serbian;overgeneralized_ed;Indo-European;Europe;6 years or more
+cast;casted;Invariable Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+cast;casted;Invariable Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+cast;casted;Invariable Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;Unknown
+catch;are catch;Weak Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+catch;did not caught;Weak Verb;Spain;Spanish;auxiliary_error;Romance;Europe;6 years or more
+choose;choosed;Strong Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+choose;chosed;Strong Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+choose;chosed;Strong Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+choose;has chose;Strong Verb;South Korea;Korean;incorrect_participle;Koreanic;Asia;6 years or more
+come;are came;Strong Verb;China-Hong Kong;Chinese-Cantonese;incorrect_participle;Sino-Tibetan;Asia;6 years or more
+come;is came;Strong Verb;South Korea;Korean;incorrect_participle;Koreanic;Asia;6 years or more
+come;is came;Strong Verb;South Korea;Korean;incorrect_participle;Koreanic;Asia;6 years or more
+come;is came;Strong Verb;South Korea;Korean;incorrect_participle;Koreanic;Asia;6 years or more
+come;is came;Strong Verb;Lithuania;Lithuanian;incorrect_participle;Indo-European;Europe;6 years or more
+come;comed;Strong Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+come;did not came;Strong Verb;South Africa;Tswana;auxiliary_error;Niger-Congo;Africa;6 years or more
+come;have came;Strong Verb;Serbia;Serbian;incorrect_participle;Indo-European;Europe;6 years or more
+cost;costed;Invariable Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+cost;costed;Invariable Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+cost;costed;Invariable Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+cost;costed;Invariable Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+cost;costed;Invariable Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+cost;costed;Invariable Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+cost;costed;Invariable Verb;Belgium;French;overgeneralized_ed;Romance;Europe;5 years
+cost;costed;Invariable Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+cost;costed;Invariable Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+cost;costed;Invariable Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+cost;costed;Invariable Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+cost;costed;Invariable Verb;Turkey;Turkish;overgeneralized_ed;Turkic;Asia;6 years or more
+cut;cutted;Invariable Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+deal;dealed;Weak Verb;Lithuania;Russian;overgeneralized_ed;Indo-European;Europe;6 years or more
+deal;dealed;Weak Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+draw;drawed;Strong Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+draw;drawed;Strong Verb;Austria;German;overgeneralized_ed;Germanic;Europe;6 years or more
+drive;drived;Strong Verb;Japan;Japanese;overgeneralized_ed;Japonic;Asia;6 years or more
+drive;was drove;Strong Verb;Japan;Japanese;incorrect_participle;Japonic;Asia;6 years or more
+do;been did;Strong Verb;Brazil;Portuguese;incorrect_participle;Romance;South_America;6 years or more
+do;is did;Strong Verb;Germany;German;incorrect_participle;Germanic;Europe;6 years or more
+do;is did;Strong Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+dwell;dwelled;Weak Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+feed;feeded;Weak Verb;Finland;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+feed;feeded;Weak Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+feel;did not felt;Weak Verb;South Korea;Korean;auxiliary_error;Koreanic;Asia;6 years or more
+fight;fighted;Weak Verb;Bulgaria;Bulgarian;overgeneralized_ed;Indo-European;Europe;6 years or more
+fight;fighted;Weak Verb;Germany;German;overgeneralized_ed;Germanic;Europe;6 years or more
+fight;fighted;Weak Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+fight;fighted;Weak Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+fight;fighted;Weak Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+fight;fighted;Weak Verb;Japan;Japanese;overgeneralized_ed;Japonic;Asia;6 years or more
+fight;fighted;Weak Verb;Russia;Russian;overgeneralized_ed;Indo-European;Europe;6 years or more
+fight;fighted;Weak Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+find;finded;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+find;finded;Strong Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+find;founded;Strong Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+find;founded;Strong Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+find;founded;Strong Verb;Austria;German;overgeneralized_ed;Germanic;Europe;6 years or more
+find;founded;Strong Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+find;founded;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+find;founded;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+find;founded;Strong Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+find;founded;Strong Verb;Turkey;Turkish;overgeneralized_ed;Turkic;Asia;6 years or more
+find;founded;Strong Verb;Russia;Russian;overgeneralized_ed;Indo-European;Europe;Unknown
+find;founded;Strong Verb;Czech Republic;Czech;overgeneralized_ed;Indo-European;Europe;4 years
+find;is find;Strong Verb;Pakistan;Urdu;incorrect_participle;Indo-European;Asia;6 years or more
+find;is find;Strong Verb;Botswana;Tswana;incorrect_participle;Niger-Congo;Africa;6 years or more
+fling;flinged;Strong Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+fly;flied;Strong Verb;China-Mainland;Chinese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+fly;flied;Strong Verb;China-Mainland;Chinese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+fly;flied;Strong Verb;China-Mainland;Chinese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+fly;flied;Strong Verb;China-Mainland;Chinese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+fly;flied;Strong Verb;China-Mainland;Chinese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+fly;flied;Strong Verb;Czech Republic;Czech;overgeneralized_ed;Indo-European;Europe;4 years
+fly;flied;Strong Verb;Italy;French;overgeneralized_ed;Romance;Europe;3 years
+freeze;freezed;Strong Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+forgive;forgived;Strong Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+forgive;were forgive;Strong Verb;South Africa;Tswana;incorrect_participle;Niger-Congo;Africa;5 years
+give;are give;Strong Verb;China-Hong Kong;Chinese-Cantonese;incorrect_participle;Sino-Tibetan;Asia;6 years or more
+give;are gave;Strong Verb;South Korea;Korean;incorrect_participle;Koreanic;Asia;6 years or more
+give;is give;Strong Verb;South Africa;Tswana;incorrect_participle;Niger-Congo;Africa;6 years or more
+give;gived;Strong Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;4 years
+give;gived;Strong Verb;Japan;Japanese;overgeneralized_ed;Japonic;Asia;6 years or more
+give;were gave;Strong Verb;Japan;Japanese;incorrect_participle;Japonic;Asia;6 years or more
+grow;growned;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+grow;growned;Strong Verb;Pakistan;Urdu;overgeneralized_ed;Indo-European;Asia;6 years or more
+go;have went;Suppletive Verb;South Africa;Tswana;incorrect_participle;Niger-Congo;Africa;6 years or more
+go;was went;Suppletive Verb;Japan;Japanese;incorrect_participle;Japonic;Asia;6 years or more
+have;did not had;Weak Verb;Belgium;Dutch;auxiliary_error;Germanic;Europe;5 years
+have;did not had to;Weak Verb;Bosnia Herzegovina;Serbian;auxiliary_error;Indo-European;Europe;6 years or more
+have;had not have;Weak Verb;Iran;Persian;auxiliary_error;Indo-European;Asia;4 years
+have;had not have;Weak Verb;Brazil;Portuguese;auxiliary_error;Romance;South_America;6 years or more
+have;had not have;Weak Verb;Japan;Japanese;auxiliary_error;Japonic;Asia;6 years or more
+hear;heared;Weak Verb;Hungary;Hungarian;overgeneralized_ed;Uralic;Europe;6 years or more
+hear;heared;Weak Verb;Pakistan;Punjabi;overgeneralized_ed;Indo-European;Asia;6 years or more
+hear;heared;Weak Verb;Pakistan;Urdu;overgeneralized_ed;Indo-European;Asia;6 years or more
+hear;heared;Weak Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+hear;heared;Weak Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+hide;hided;Strong Verb;Finland;Finnish;overgeneralized_ed;Uralic;Europe;6 years
+hide;hided;Strong Verb;Belgium;French;overgeneralized_ed;Romance;Europe;4 years
+hide;hided;Strong Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+hide;hided;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+hide;hided;Strong Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+hide;hiden;Strong Verb;Czech Republic;Czech;incorrect_participle;Indo-European;Europe;6 years or more
+hide;hiden;Strong Verb;Serbia;Serbian;incorrect_participle;Indo-European;Europe;6 years or more
+hide;is hide;Strong Verb;China-Hong Kong;Chinese-Cantonese;incorrect_participle;Sino-Tibetan;Asia;6 years or more
+hit;hitted;Invariable Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+hold;are hold;Weak Verb;China-Hong Kong;Chinese-Cantonese;incorrect_participle;Sino-Tibetan;Asia;6 years or more
+hold;are hold;Weak Verb;Iran;Persian;incorrect_participle;Indo-European;Asia;6 years or more
+hold;are hold;Weak Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+hold;been hold;Weak Verb;Italy;Italian;incorrect_participle;Romance;Europe;5 years
+hold;been hold;Weak Verb;Poland;Polish;incorrect_participle;Indo-European;Europe;4 years
+hold;holded;Weak Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+hold;holded;Weak Verb;Turkey;Turkish;overgeneralized_ed;Turkic;Asia;6 years or more
+hold;Is hold;Weak Verb;Brazil;Portuguese;incorrect_participle;Romance;South_America;6 years or more
+hurt;hurted;Invariable Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+hurt;hurted;Invariable Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+hurt;hurted;Invariable Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+hurt;hurted;Invariable Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+hurt;hurted;Invariable Verb;Spain;German;overgeneralized_ed;Germanic;Europe;6 years or more
+hurt;hurted;Invariable Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+hurt;hurted;Invariable Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+hurt;hurted;Invariable Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+hurt;hurted;Invariable Verb;Japan;Japanese;overgeneralized_ed;Japonic;Asia;6 years or more
+hurt;hurted;Invariable Verb;Macedonia;Macedonian;overgeneralized_ed;Indo-European;Europe;6 years or more
+hurt;hurted;Invariable Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+hurt;hurted;Invariable Verb;Pakistan;Urdu;overgeneralized_ed;Indo-European;Asia;6 years or more
+hurt;hurted;Invariable Verb;Pakistan;Urdu;overgeneralized_ed;Indo-European;Asia;6 years or more
+hurt;hurted;Invariable Verb;Pakistan;Urdu;overgeneralized_ed;Indo-European;Asia;6 years or more
+know;is know;Strong Verb;Brazil;Portuguese;incorrect_participle;Romance;South_America;6 years or more
+know;is know;Strong Verb;Poland;Polish;incorrect_participle;Indo-European;Europe;4 years
+know;is know;Strong Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+know;knowed;Strong Verb;Czech Republic;Czech;overgeneralized_ed;Indo-European;Europe;4 years
+know;knowed;Strong Verb;Netherlands;Dutch;overgeneralized_ed;Germanic;Europe;5 years
+know;knowed;Strong Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+know;knowed;Strong Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+know;knowned;Strong Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+know;was know;Strong Verb;Pakistan;Urdu;incorrect_participle;Indo-European;Asia;6 years or more
+lend;has lend;Weak Verb;Pakistan;Urdu;incorrect_participle;Indo-European;Asia;6 years or more
+lend;lended;Weak Verb;Finland;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+lead;are lead;Weak Verb;Czech Republic;Czech;incorrect_participle;Indo-European;Europe;4 years
+lead;are lead;Weak Verb;Czech Republic;Czech;incorrect_participle;Indo-European;Europe;4 years
+lead;are lead;Weak Verb;Macedonia;Macedonian;incorrect_participle;Indo-European;Europe;6 years or more
+lead;are lead;Weak Verb;Spain;Spanish;incorrect_participle;Romance;Europe;4 years
+lead;is lead;Weak Verb;Finland;Finnish;incorrect_participle;Uralic;Europe;6 years or more
+lead;is lead;Weak Verb;South Korea;Korean;incorrect_participle;Koreanic;Asia;6 years or more
+lead;leaded;Weak Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+lead;leaded;Weak Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+lead;leaded;Weak Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+lead;leaded;Weak Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+lead;leaded;Weak Verb;Japan;Japanese;overgeneralized_ed;Japonic;Asia;6 years or more
+lead;leaded;Weak Verb;South Korea;Korean;overgeneralized_ed;Koreanic;Asia;6 years or more
+lead;leaded;Weak Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+lead;leaded;Weak Verb;Pakistan;Punjabi;overgeneralized_ed;Indo-European;Asia;6 years or more
+lead;leaded;Weak Verb;Poland;Polish;overgeneralized_ed;Indo-European;Europe;6 years or more
+lead;was lead;Weak Verb;Czech Republic;Czech;incorrect_participle;Indo-European;Europe;6 years or more
+lead;was lead;Weak Verb;South Korea;Korean;incorrect_participle;Koreanic;Asia;6 years or more
+lead;was lead;Weak Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+lead;were lead;Weak Verb;Bulgaria;Bulgarian;incorrect_participle;Indo-European;Europe;5 years
+lead;were lead;Weak Verb;Czech Republic;Czech;incorrect_participle;Indo-European;Europe;4 years
+lead;were lead;Weak Verb;Austria;German;incorrect_participle;Germanic;Europe;6 years or more
+leave;been leave;Weak Verb;Pakistan;Urdu;incorrect_participle;Indo-European;Asia;6 years or more
+leave;leaved;Weak Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+leave;leaved;Weak Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+leave;leaved;Weak Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+lay;layed;Weak Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+lay;laid;Weak Verb;Finland;Finnish;other;Uralic;Europe;6 years or more
+lay;laid;Weak Verb;Japan;Japanese;other;Japonic;Asia;6 years or more
+lie;layed;Strong Verb;Germany;German;overgeneralized_ed;Germanic;Europe;6 years or more
+lie;lied;Strong Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+lie;lied;Strong Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+lie;lied;Strong Verb;Germany;German;overgeneralized_ed;Germanic;Europe;6 years or more
+lie;lied;Strong Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+lie;laid;Strong Verb;Russia;Russian;other;Indo-European;Europe;6 years or more
+lose;losed;Weak Verb;Japan;Japanese;overgeneralized_ed;Japonic;Asia;6 years or more
+lose;losed;Weak Verb;Pakistan;Urdu;overgeneralized_ed;Indo-European;Asia;6 years or more
+make;are make;Weak Verb;Hungary;Hungarian;incorrect_participle;Uralic;Europe;6 years or more
+make;maked;Weak Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+make;maded;Weak Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+make;did not made;Weak Verb;South Africa;Tswana;auxiliary_error;Niger-Congo;Africa;6 years or more
+overcome;been overcame;Strong Verb;Italy;Italian;incorrect_participle;Romance;Europe;5 years
+overcome;overcomed;Strong Verb;Czech Republic;Czech;overgeneralized_ed;Indo-European;Europe;4 years
+overcome;overcomed;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+overcome;overcomed;Strong Verb;Macedonia;Macedonian;overgeneralized_ed;Indo-European;Europe;6 years or more
+overcome;overcomed;Strong Verb;Bosnia Herzegovina;Serbian;overgeneralized_ed;Indo-European;Europe;6 years or more
+overcome;overcomed;Strong Verb;Turkey;Turkish;overgeneralized_ed;Turkic;Asia;6 years or more
+pay;are pay;Weak Verb;China-Hong Kong;Chinese-Cantonese;incorrect_participle;Sino-Tibetan;Asia;6 years or more
+pay;payed;Weak Verb;Bulgaria;Bulgarian;overgeneralized_ed;Indo-European;Europe;6 years or more
+pay;payed;Weak Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+pay;payed;Weak Verb;Belgium;Dutch;overgeneralized_ed;Germanic;Europe;4 years
+pay;payed;Weak Verb;Belgium;French;overgeneralized_ed;Romance;Europe;4 years
+pay;payed;Weak Verb;Germany;German;overgeneralized_ed;Germanic;Europe;6 years or more
+pay;payed;Weak Verb;Germany;German;overgeneralized_ed;Germanic;Europe;6 years or more
+pay;payed;Weak Verb;Germany;German;overgeneralized_ed;Germanic;Europe;6 years or more
+pay;payed;Weak Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+pay;payed;Weak Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+pay;payed;Weak Verb;Hungary;Hungarian;overgeneralized_ed;Uralic;Europe;6 years or more
+pay;payed;Weak Verb;Hungary;Hungarian;overgeneralized_ed;Uralic;Europe;6 years or more
+pay;payed;Weak Verb;Hungary;Hungarian;overgeneralized_ed;Uralic;Europe;6 years or more
+pay;payed;Weak Verb;Hungary;Hungarian;overgeneralized_ed;Uralic;Europe;6 years or more
+pay;payed;Weak Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+pay;payed;Weak Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+pay;payed;Weak Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+pay;payed;Weak Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+pay;payed;Weak Verb;Japan;Japanese;overgeneralized_ed;Japonic;Asia;6 years or more
+pay;payed;Weak Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+pay;payed;Weak Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+pay;payed;Weak Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+pay;payed;Weak Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+pay;payed;Weak Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+pay;payed;Weak Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+pay;payed;Weak Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+pay;payed;Weak Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+pay;payed;Weak Verb;Poland;Polish;overgeneralized_ed;Indo-European;Europe;6 years or more
+pay;payed;Weak Verb;Russia;Russian;overgeneralized_ed;Indo-European;Europe;6 years or more
+pay;payed;Weak Verb;Serbia;Serbian;overgeneralized_ed;Indo-European;Europe;6 years or more
+pay;payed;Weak Verb;Bosnia Herzegovina;Serbian;overgeneralized_ed;Indo-European;Europe;6 years or more
+pay;payed;Weak Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+pay;payed;Weak Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+pay;payed;Weak Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+pay;payed;Weak Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+pay;payed;Weak Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+pay;payed;Weak Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;Unknown
+pay;payed;Weak Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;Unknown
+pay;payed;Weak Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+pay;payed;Weak Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+pay;payed;Weak Verb;Turkey;Turkish;overgeneralized_ed;Turkic;Asia;6 years or more
+pay;payed;Weak Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+pay;payed;Weak Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+pay;payed;Weak Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+pay;payed;Weak Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+pay;payed;Weak Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+pay;payed;Weak Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+pay;payed;Weak Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+pay;payed;Weak Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+pay;payed;Weak Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+pay;payed;Weak Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+pay;payed;Weak Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+put;putted;Invariable Verb;Czech Republic;Czech;overgeneralized_ed;Indo-European;Europe;6 years or more
+put;putted;Invariable Verb;Czech Republic;Czech;overgeneralized_ed;Indo-European;Europe;6 years or more
+put;putted;Invariable Verb;Czech Republic;Czech;overgeneralized_ed;Indo-European;Europe;6 years or more
+put;putted;Invariable Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+put;putted;Invariable Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+quit;quitted;Invariable Verb;Japan;Japanese;overgeneralized_ed;Japonic;Asia;6 years or more
+read;readed;Invariable Verb / Weak Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+read;readen;Invariable Verb / Weak Verb;Italy;Italian;incorrect_participle;Romance;Europe;6 years or more
+ring;ringed;Strong Verb;Turkey;Turkish;overgeneralized_ed;Turkic;Asia;6 years or more
+rise;rised;Strong Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+rise;rised;Strong Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+rise;rised;Strong Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+rise;rised;Strong Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+rise;rised;Strong Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+rise;rised;Strong Verb;Germany;German;overgeneralized_ed;Germanic;Europe;6 years or more
+rise;rised;Strong Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+rise;rised;Strong Verb;Hungary;Hungarian;overgeneralized_ed;Uralic;Europe;6 years or more
+rise;rised;Strong Verb;Japan;Japanese;overgeneralized_ed;Japonic;Asia;6 years or more
+rise;rised;Strong Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+rise;rised;Strong Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+rise;rised;Strong Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+rise;rised;Strong Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;Unknown
+rise;rised;Strong Verb;Turkey;Turkish;overgeneralized_ed;Turkic;Asia;6 years or more
+run;are ran;Strong Verb;South Africa;Tswana;incorrect_participle;Niger-Congo;Africa;6 years or more
+run;runned;Strong Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+run;runned;Strong Verb;Germany;German;overgeneralized_ed;Germanic;Europe;6 years or more
+run;runned;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+run;runned;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+run;runned;Strong Verb;Russia;Russian;overgeneralized_ed;Indo-European;Europe;6 years or more
+run;runned;Strong Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+run;have ran;Strong Verb;South Africa;Tswana;incorrect_participle;Niger-Congo;Africa;6 years or more
+see;seed;Strong Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+see;have saw;Strong Verb;South Africa;Tswana;incorrect_participle;Niger-Congo;Africa;6 years or more
+seek;seeked;Weak Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+seek;seeked;Weak Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+seek;seeked;Weak Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+seek;seeked;Weak Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+sell;selled;Weak Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+send;are send;Weak Verb;Botswana;Tswana;incorrect_participle;Niger-Congo;Africa;6 years or more
+send;is send;Weak Verb;Pakistan;Urdu;incorrect_participle;Indo-European;Asia;6 years or more
+send;sended;Weak Verb;Japan;Japanese;overgeneralized_ed;Japonic;Asia;6 years or more
+send;sended;Weak Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+send;sended;Weak Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+send;was send;Weak Verb;Pakistan;Punjabi;incorrect_participle;Indo-European;Asia;6 years or more
+set;setted;Invariable Verb;Czech Republic;Czech;overgeneralized_ed;Indo-European;Europe;4 years
+shine;shined;Strong Verb;Japan;Japanese;overgeneralized_ed;Japonic;Asia;6 years or more
+shine;shined;Strong Verb;South Korea;Korean;overgeneralized_ed;Koreanic;Asia;6 years or more
+shoot;shooted;Strong Verb;Czech Republic;Czech;overgeneralized_ed;Indo-European;Europe;6 years or more
+shoot;shooted;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+shrink;shrinked;Strong Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+shrink;shrinked;Strong Verb;Pakistan;Punjabi;overgeneralized_ed;Indo-European;Asia;6 years or more
+shrink;shrunked;Strong Verb;Pakistan;Punjabi;overgeneralized_ed;Indo-European;Asia;6 years or more
+sink;sinken;Strong Verb;Hungary;Hungarian;incorrect_participle;Uralic;Europe;6 years or more
+sink;sunken;Strong Verb;Sweden;Swedish;incorrect_participle;Germanic;Europe;6 years or more
+sink;sunken;Strong Verb;Finland;Finnish;incorrect_participle;Uralic;Europe;6 years or more
+speak;speaked;Strong Verb;Japan;Japanese;overgeneralized_ed;Japonic;Asia;6 years or more
+speak;have spoke;Strong Verb;South Africa;Tswana;incorrect_participle;Niger-Congo;Africa;6 years or more
+speed;speeded;Weak Verb;Czech Republic;Czech;overgeneralized_ed;Indo-European;Europe;4 years
+speed;speeded;Weak Verb;Finland;Finnish;overgeneralized_ed;Uralic;Europe;6 years or more
+speed;speeded;Weak Verb;Belgium;French;overgeneralized_ed;Romance;Europe;6 years or more
+speed;speeded;Weak Verb;Hungary;Hungarian;overgeneralized_ed;Uralic;Europe;6 years or more
+speed;speeded;Weak Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+speed;speeded;Weak Verb;Poland;Polish;overgeneralized_ed;Indo-European;Europe;4 years
+speed;speeded;Weak Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+spend;spended;Weak Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+spend;spended;Weak Verb;Botswana;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+spread;spreaded;Invariable Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+spread;spreaded;Invariable Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+spread;spreaded;Invariable Verb;China-Mainland;Chinese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+spread;spreaded;Invariable Verb;Czech Republic;Czech;overgeneralized_ed;Indo-European;Europe;4 years
+spread;spreaded;Invariable Verb;Hungary;Hungarian;overgeneralized_ed;Uralic;Europe;4 years
+spread;spreaded;Invariable Verb;Hungary;Hungarian;overgeneralized_ed;Uralic;Europe;4 years
+spread;spreaded;Invariable Verb;Japan;Japanese;overgeneralized_ed;Japonic;Asia;6 years or more
+spread;spreaded;Invariable Verb;South Korea;Korean;overgeneralized_ed;Koreanic;Asia;6 years or more
+spread;spreaded;Invariable Verb;Lithuania;Lithuanian;overgeneralized_ed;Indo-European;Europe;6 years or more
+spread;spreaded;Invariable Verb;Pakistan;Punjabi;overgeneralized_ed;Indo-European;Asia;6 years or more
+spread;spreaded;Invariable Verb;Turkey;Turkish;overgeneralized_ed;Turkic;Asia;6 years or more
+spread;spreaded;Invariable Verb;Turkey;Turkish;overgeneralized_ed;Turkic;Asia;6 years or more
+spread;spreaded;Invariable Verb;Turkey;Turkish;overgeneralized_ed;Turkic;Asia;6 years or more
+spread;spreaded;Invariable Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+spread;spreaded;Invariable Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+spread;spreaden;Invariable Verb;Brazil;Portuguese;incorrect_participle;Romance;South_America;6 years or more
+steal;stealed;Strong Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+steal;has stole;Strong Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+take;is took;Strong Verb;Czech Republic;Czech;incorrect_participle;Indo-European;Europe;6 years or more
+take;is took;Strong Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+take;are take;Strong Verb;South Africa;Tswana;incorrect_participle;Niger-Congo;Africa;6 years or more
+take;taked;Strong Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;4 years
+take;did not took;Strong Verb;Lithuania;Lithuanian;auxiliary_error;Indo-European;Europe;6 years or more
+take;did not took;Strong Verb;Norway;Norwegian;auxiliary_error;Germanic;Europe;6 years or more
+take;had not took;Strong Verb;Germany;German;auxiliary_error;Germanic;Europe;6 years or more
+take;have took;Strong Verb;Greece;Greek;incorrect_participle;Indo-European;Europe;6 years or more
+take;have took;Strong Verb;Greece;Greek;incorrect_participle;Indo-European;Europe;6 years or more
+take;have took;Strong Verb;South Africa;Tswana;incorrect_participle;Niger-Congo;Africa;6 years or more
+take;has took;Strong Verb;South Africa;Tswana;incorrect_participle;Niger-Congo;Africa;6 years or more
+take;has took;Strong Verb;South Africa;Tswana;incorrect_participle;Niger-Congo;Africa;6 years or more
+teach;teached;Weak Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+teach;teached;Weak Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+teach;teached;Weak Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+teach;teached;Weak Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+teach;teached;Weak Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+teach;teached;Weak Verb;Japan;Japanese;overgeneralized_ed;Japonic;Asia;6 years or more
+teach;teached;Weak Verb;Japan;Japanese;overgeneralized_ed;Japonic;Asia;6 years or more
+teach;teached;Weak Verb;Turkey;Turkish;overgeneralized_ed;Turkic;Asia;6 years or more
+teach;teached;Weak Verb;Turkey;Turkish;overgeneralized_ed;Turkic;Asia;6 years or more
+teach;teached;Weak Verb;South Africa;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+tell;is tell;Weak Verb;South Korea;Korean;incorrect_participle;Koreanic;Asia;6 years or more
+tell;telled;Weak Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+think;is think;Weak Verb;China-Hong Kong;Chinese-Cantonese;incorrect_participle;Sino-Tibetan;Asia;6 years or more
+think;did not thought;Weak Verb;Germany;German;auxiliary_error;Germanic;Europe;6 years or more
+think;did not thought;Weak Verb;Poland;Polish;auxiliary_error;Indo-European;Europe;3 years
+throw;throwed;Strong Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+throw;throwed;Strong Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+understand;understanded;Strong Verb;Greece;Greek;overgeneralized_ed;Indo-European;Europe;6 years or more
+wake;woked;Strong Verb;Bulgaria;Bulgarian;overgeneralized_ed;Indo-European;Europe;6 years or more
+wake;waken;Strong Verb;China-Mainland;Chinese;incorrect_participle;Sino-Tibetan;Asia;6 years or more
+wake;waken;Strong Verb;Czech Republic;Czech;incorrect_participle;Indo-European;Europe;4 years
+wake;waken;Strong Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+wake;waken;Strong Verb;Iran;Persian;incorrect_participle;Indo-European;Asia;6 years or more
+wake;waken;Strong Verb;Turkey;Turkish;incorrect_participle;Turkic;Asia;6 years or more
+wear;weared;Strong Verb;Pakistan;Punjabi;overgeneralized_ed;Indo-European;Asia;6 years or more
+weep;weeped;Weak Verb;Botswana;Tswana;overgeneralized_ed;Niger-Congo;Africa;6 years or more
+write;writed;Strong Verb;China-Hong Kong;Chinese-Cantonese;overgeneralized_ed;Sino-Tibetan;Asia;6 years or more
+write;writen;Strong Verb;China-Hong Kong;Chinese-Cantonese;incorrect_participle;Sino-Tibetan;Asia;6 years or more
+write;writen;Strong Verb;Japan;Japanese;incorrect_participle;Japonic;Asia;6 years or more
+write;writen;Strong Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+write;have wrote;Strong Verb;South Korea;Korean;incorrect_participle;Koreanic;Asia;6 years or more

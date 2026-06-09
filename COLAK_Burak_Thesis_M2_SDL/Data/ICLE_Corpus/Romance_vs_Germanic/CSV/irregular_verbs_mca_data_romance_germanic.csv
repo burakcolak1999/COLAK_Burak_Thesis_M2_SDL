@@ -1,0 +1,159 @@
+irregular_verbs_mca_data_romance_germanic
+irregular_verbs_mca_data;;;;;;;;
+Verb;Error_Form;Irregular Verb Type;Country;Native_Language;Error_Type;Language_Family;Region;Years of English at School
+arise;arised;Strong Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+arise;arised;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+arise;arised;Strong Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+arise;arised;Strong Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+arise;arised;Strong Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+arise;arosen;Strong Verb;Italy;Italian;incorrect_participle;Romance;Europe;6 years or more
+be;did not;Suppletive Verb;Italy;Italian;auxiliary_error;Romance;Europe;5 years
+be;did not be;Suppletive Verb;Brazil;Portuguese;auxiliary_error;Romance;South_America;6 years or more
+be;have be;Suppletive Verb;Brazil;Portuguese;incorrect_participle;Romance;South_America;6 years or more
+be;have be;Suppletive Verb;Brazil;Portuguese;incorrect_participle;Romance;South_America;6 years or more
+be;have be;Suppletive Verb;Belgium;French;incorrect_participle;Romance;Europe;6 years or more
+become;becomed;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+become;did not became;Strong Verb;Sweden;Swedish;auxiliary_error;Germanic;Europe;6 years or more
+become;have became;Strong Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+become;has became;Strong Verb;Brazil;Portuguese;incorrect_participle;Romance;South_America;6 years or more
+become;has became;Strong Verb;Brazil;Portuguese;incorrect_participle;Romance;South_America;6 years or more
+become;has became;Strong Verb;Italy;Italian;incorrect_participle;Romance;Europe;5 years
+become;has became;Strong Verb;Norway;Norwegian;incorrect_participle;Germanic;Europe;6 years or more
+become;has became;Strong Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+blow;blowed;Strong Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;Unknown
+breed;breeded;Weak Verb;Finland;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+breed;breeded;Weak Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+broadcast;broadcasted;Invariable Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+broadcast;broadcasted;Invariable Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+broadcast;broadcasted;Invariable Verb;Belgium;Dutch;overgeneralized_ed;Germanic;Europe;5 years
+broadcast;broadcasted;Invariable Verb;Belgium;Dutch;overgeneralized_ed;Germanic;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Belgium;Dutch;overgeneralized_ed;Germanic;Europe;4 years
+broadcast;broadcasted;Invariable Verb;Belgium;French;overgeneralized_ed;Romance;Europe;4 years
+broadcast;broadcasted;Invariable Verb;Belgium;French;overgeneralized_ed;Romance;Europe;3 years
+broadcast;broadcasted;Invariable Verb;Belgium;French;overgeneralized_ed;Romance;Europe;3 years
+broadcast;broadcasted;Invariable Verb;Belgium;French;overgeneralized_ed;Romance;Europe;3 years
+broadcast;broadcasted;Invariable Verb;Germany;German;overgeneralized_ed;Germanic;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Switzerland;German;overgeneralized_ed;Germanic;Europe;5 years
+broadcast;broadcasted;Invariable Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+broadcast;broadcasted;Invariable Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;Unknown
+build;are build;Weak Verb;Germany;German;incorrect_participle;Germanic;Europe;6 years or more
+build;builded;Weak Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+build;is build;Weak Verb;Germany;German;incorrect_participle;Germanic;Europe;6 years or more
+build;is build;Weak Verb;Germany;German;incorrect_participle;Germanic;Europe;6 years or more
+burst;bursted;Invariable Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;3 years
+burst;bursted;Invariable Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+cast;casted;Invariable Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+cast;casted;Invariable Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+cast;casted;Invariable Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;Unknown
+catch;are catch;Weak Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+catch;did not caught;Weak Verb;Spain;Spanish;auxiliary_error;Romance;Europe;6 years or more
+choose;choosed;Strong Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+come;comed;Strong Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+cost;costed;Invariable Verb;Belgium;French;overgeneralized_ed;Romance;Europe;5 years
+cost;costed;Invariable Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+cost;costed;Invariable Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+cut;cutted;Invariable Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+deal;dealed;Weak Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+draw;drawed;Strong Verb;Austria;German;overgeneralized_ed;Germanic;Europe;6 years or more
+do;been did;Strong Verb;Brazil;Portuguese;incorrect_participle;Romance;South_America;6 years or more
+do;is did;Strong Verb;Germany;German;incorrect_participle;Germanic;Europe;6 years or more
+do;is did;Strong Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+feed;feeded;Weak Verb;Finland;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+fight;fighted;Weak Verb;Germany;German;overgeneralized_ed;Germanic;Europe;6 years or more
+fight;fighted;Weak Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+fight;fighted;Weak Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+find;finded;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+find;finded;Strong Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+find;founded;Strong Verb;Austria;German;overgeneralized_ed;Germanic;Europe;6 years or more
+find;founded;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+find;founded;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+find;founded;Strong Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+fly;flied;Strong Verb;Italy;French;overgeneralized_ed;Romance;Europe;3 years
+freeze;freezed;Strong Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+give;gived;Strong Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;4 years
+grow;growned;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+have;did not had;Weak Verb;Belgium;Dutch;auxiliary_error;Germanic;Europe;5 years
+hear;heared;Weak Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+hear;heared;Weak Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+hide;hided;Strong Verb;Belgium;French;overgeneralized_ed;Romance;Europe;4 years
+hide;hided;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+hit;hitted;Invariable Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+hold;are hold;Weak Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+hold;been hold;Weak Verb;Italy;Italian;incorrect_participle;Romance;Europe;5 years
+hold;is hold;Weak Verb;Brazil;Portuguese;incorrect_participle;Romance;South_America;6 years or more
+hurt;hurted;Invariable Verb;Spain;German;overgeneralized_ed;Germanic;Europe;6 years or more
+hurt;hurted;Invariable Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+hurt;hurted;Invariable Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+hurt;hurted;Invariable Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+know;is know;Strong Verb;Brazil;Portuguese;incorrect_participle;Romance;South_America;6 years or more
+know;is know;Strong Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+know;knowed;Strong Verb;Netherlands;Dutch;overgeneralized_ed;Germanic;Europe;5 years
+lend;lended;Weak Verb;Finland;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+lead;are lead;Weak Verb;Spain;Spanish;incorrect_participle;Romance;Europe;4 years
+lead;leaded;Weak Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+lead;was lead;Weak Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+lead;were lead;Weak Verb;Austria;German;incorrect_participle;Germanic;Europe;6 years or more
+leave;leaved;Weak Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+leave;leaved;Weak Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+lie;layed;Strong Verb;Germany;German;overgeneralized_ed;Germanic;Europe;6 years or more
+lie;lied;Strong Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+lie;lied;Strong Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+lie;lied;Strong Verb;Germany;German;overgeneralized_ed;Germanic;Europe;6 years or more
+overcome;been overcame;Strong Verb;Italy;Italian;incorrect_participle;Romance;Europe;5 years
+overcome;overcomed;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+pay;payed;Weak Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+pay;payed;Weak Verb;Belgium;Dutch;overgeneralized_ed;Germanic;Europe;4 years
+pay;payed;Weak Verb;Belgium;French;overgeneralized_ed;Romance;Europe;4 years
+pay;payed;Weak Verb;Germany;German;overgeneralized_ed;Germanic;Europe;6 years or more
+pay;payed;Weak Verb;Germany;German;overgeneralized_ed;Germanic;Europe;6 years or more
+pay;payed;Weak Verb;Germany;German;overgeneralized_ed;Germanic;Europe;6 years or more
+pay;payed;Weak Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+pay;payed;Weak Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+pay;payed;Weak Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+pay;payed;Weak Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+pay;payed;Weak Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+pay;payed;Weak Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+pay;payed;Weak Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+pay;payed;Weak Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+pay;payed;Weak Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+pay;payed;Weak Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+pay;payed;Weak Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+pay;payed;Weak Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;Unknown
+pay;payed;Weak Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;Unknown
+pay;payed;Weak Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+pay;payed;Weak Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+read;readed;Weak Verb / Invariable Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+read;readen;Weak Verb / Invariable Verb;Italy;Italian;incorrect_participle;Romance;Europe;6 years or more
+rise;rised;Strong Verb;Germany;German;overgeneralized_ed;Germanic;Europe;6 years or more
+rise;rised;Strong Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;Unknown
+run;runned;Strong Verb;Germany;German;overgeneralized_ed;Germanic;Europe;6 years or more
+run;runned;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;6 years or more
+run;runned;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+run;runned;Strong Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+see;seed;Strong Verb;Norway;Norwegian;overgeneralized_ed;Germanic;Europe;6 years or more
+seek;seeked;Weak Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+send;sended;Weak Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;6 years or more
+shoot;shooted;Strong Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+sink;sunken;Strong Verb;Sweden;Swedish;incorrect_participle;Germanic;Europe;6 years or more
+speed;speeded;Weak Verb;Belgium;French;overgeneralized_ed;Romance;Europe;6 years or more
+speed;speeded;Weak Verb;Italy;Italian;overgeneralized_ed;Romance;Europe;5 years
+speed;speeded;Weak Verb;Sweden;Swedish;overgeneralized_ed;Germanic;Europe;6 years or more
+spread;spreaden;Invariable Verb;Brazil;Portuguese;incorrect_participle;Romance;South_America;6 years or more
+steal;stealed;Strong Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+steal;has stole;Strong Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+take;is took;Strong Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+take;taked;Strong Verb;Spain;Spanish;overgeneralized_ed;Romance;Europe;4 years
+take;did not took;Strong Verb;Norway;Norwegian;auxiliary_error;Germanic;Europe;6 years or more
+take;had not took;Strong Verb;Germany;German;auxiliary_error;Germanic;Europe;6 years or more
+teach;teached;Weak Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+teach;teached;Weak Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+teach;teached;Weak Verb;Brazil;Portuguese;overgeneralized_ed;Romance;South_America;6 years or more
+think;did not thought;Weak Verb;Germany;German;auxiliary_error;Germanic;Europe;6 years or more
+wake;waken;Strong Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
+write;writen;Strong Verb;Spain;Spanish;incorrect_participle;Romance;Europe;6 years or more
